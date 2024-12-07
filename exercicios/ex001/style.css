@@ -1,0 +1,26 @@
+
+* {
+    font-family: sans-serif;    
+}
+
+body {
+    background-image: linear-gradient(to top,#1B67B3,#2284E6,#134980,#0B2C4D);
+    background-attachment: fixed;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+}
+
+main {
+    background-color: #ffffff;
+    width: 500px;
+    border-radius: 10px;
+    padding: 1px;
+    margin: 30px;
+}
+
+p {
+    color: #0B2C4D;
+}
